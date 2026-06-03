@@ -14,13 +14,7 @@
 
 ## 界面预览
 
-### 桌面端
-
-![桌面端界面预览](./docs/images/preview-desktop.png)
-
-### 移动端
-
-![移动端界面预览](./docs/images/preview-mobile.png)
+![桌面端界面预览](https://raw.githubusercontent.com/gougoute/appleid_share/main/content.jpg)
 
 ---
 
